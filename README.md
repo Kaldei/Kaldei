@@ -3,7 +3,7 @@
 ## Hello 👋
 👨‍💻 I'm a French student in computer engineering school and I'm aiming for a cybersecurity specialization. Feel free to have a look at my work! 👨‍💻
 
-🔎 I'm currently looking for a SysAdmin or Cybersecurity Internship from 06 September 2021 to 11 February 2022. 🔎
+🔎 I'm currently looking for a Cybersecurity Internship from October 2021 to February 2022. 🔎
 
 
 ## My Repos 📕
