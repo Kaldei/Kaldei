@@ -20,6 +20,8 @@ Here is the nomenclature of my repositories: `TYPE-Category-Name`
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://tryhackme.com/p/Caldei"><img src="https://i.ibb.co/cLvwVW6/tryhackme.png" alt="tryhackme" width="75" height="75" style="margin: 5px;"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://blueteamlabs.online/public/user/69878511817918dff07a6e"><img src="https://i.ibb.co/ZcLqpxW/btlo.png" alt="btlo" width="75" height="75" style="margin: 5px;"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/arthur-caldeireiro/"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111499.svg" width="75" height="75" style="margin: 5px;"></a>
- 
+
 Do not hesitate to contact me on any of these platforms or at this address: arthur.caldeireiro@viacesi.fr 
