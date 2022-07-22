@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/YL5jUldUMWBd4l4VP8/giphy.gif" width="1000"/>
+<img src="https://media.giphy.com/media/YL5jUldUMWBd4l4VP8/giphy.gif" width="100%"/>
 
 ## Hello 👋
 👨‍💻 I'm a French student in computer engineering school and I'm aiming for a cybersecurity specialization. Feel free to have a look at my work! 👨‍💻
