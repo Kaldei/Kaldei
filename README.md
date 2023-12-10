@@ -3,4 +3,4 @@
 ## Hello 👋
 Welcome to my GitHub profile! Here you will find my school and personal projects.
 
-If you're interessed in cybersecurity, have a look at my website 😃 : https://security.kaldei.xyz/
+If you're interessed in DevOps and/or Cybersecurity, take a look at my websites : https://www.kaldei.xyz/
